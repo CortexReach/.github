@@ -2,6 +2,10 @@
 
 This organization is dedicated to building next-generation AI memory solutions.
 
+🎯 **Current Focus:** Pioneering powerful memory enhancement plugins specifically designed for **OpenClaw**.
+
+🚀 **Our Vision:** To empower the entire AI ecosystem. We are expanding our plugin architecture to bring persistent, advanced memory to all AI agents, including **Claude Code, Codex, Gemini CLI, and OpenCode**.
+
 ---
 
 ## 👑 Founder & Lead Architect
