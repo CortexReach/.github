@@ -14,7 +14,7 @@ This organization is dedicated to building next-generation AI memory solutions.
 
 ---
 
-## 🤝 Core Contributors
+## 🤝 Core Team
 We are proud to have a talented team driving our mission forward:
 
 * <img src="https://github.com/chenjiyong.png" width="25" /> **[@chenjiyong](https://github.com/chenjiyong)**
