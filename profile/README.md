@@ -19,7 +19,7 @@ We are proud to have a talented team driving our mission forward:
 
 * <img src="https://github.com/chenjiyong.png" width="25" /> **[@chenjiyong](https://github.com/chenjiyong)**
 * <img src="https://github.com/rwmjhb.png" width="25" /> **[@rwmjhb](https://github.com/rwmjhb)**
-* <img src="https://github.com/win4r.png" width="25" /> **[@win4r](https://github.com/win4r)**
+* <img src="https://github.com/win4r.png" width="25" /> **[@Chao Qin](https://github.com/win4r)**
 * <img src="https://github.com/AliceLJY.png" width="25" /> **[小试AI (Alice)](https://github.com/AliceLJY)**
 
 ---
