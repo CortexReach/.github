@@ -21,6 +21,7 @@ We are proud to have a talented team driving our mission forward:
 * <img src="https://github.com/rwmjhb.png" width="25" /> **[@rwmjhb](https://github.com/rwmjhb)**
 * <img src="https://github.com/win4r.png" width="25" /> **[@Chao Qin](https://github.com/win4r)**
 * <img src="https://github.com/AliceLJY.png" width="25" /> **[小试AI (Alice)](https://github.com/AliceLJY)**
+* <img src="https://github.com/otterdigitalnet.png" width="25" /> **[@otterdigitalnet](https://github.com/otterdigitalnet)**
 
 ---
 
